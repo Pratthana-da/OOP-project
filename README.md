@@ -1,6 +1,5 @@
-#OOP-Project
+##OOP-Project
 ```
-
 application title
 - author: 
   * id: ---
@@ -8,7 +7,7 @@ application title
 - technology: [pygame/streamlit]
 - application description:
 
- presentation: [slide/canva/etc..] link [public/ubu]
- video: link [public/ubu]
+ * presentation: [slide/canva/etc..] link [public/ubu]
+ * video: link [public/ubu]
 
 ```
