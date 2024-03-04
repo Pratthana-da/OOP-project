@@ -23,7 +23,7 @@
     
 
 ## presentation:
-   [https://www.canva.com/design/DAF-YfC6urE/pKs8izatRuO1UJmfYDyaUg/edit?utm_content=DAF-YfC6urE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] link [public/ubu]
+   link : [https://www.canva.com/design/DAF-YfC6urE/pKs8izatRuO1UJmfYDyaUg/edit?utm_content=DAF-YfC6urE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] 
 ## video:
    link [public/ubu]
 
